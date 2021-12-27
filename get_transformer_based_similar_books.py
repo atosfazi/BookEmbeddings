@@ -8,7 +8,7 @@ import pickle
 
 
 # constrains
-data_path = r"data\dataset_lubimyczytac.csv"
+data_path = r"dataset.csv"
 tokenizer = AutoTokenizer.from_pretrained('sentence-transformers/paraphrase-xlm-r-multilingual-v1')
 model = AutoModel.from_pretrained('sentence-transformers/paraphrase-xlm-r-multilingual-v1')
 
