@@ -1,3 +1,3 @@
 # BookEmbeddings
 
-Various methods of creating embedding from books information from website lubimyczytac.pl
+Various methods of creating embeddings from book information on the website lubimyczytac.pl.
